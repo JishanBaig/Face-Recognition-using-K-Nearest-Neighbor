@@ -1,4 +1,3 @@
-__author__ = 'satya'
 
 import numpy as np
 
