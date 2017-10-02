@@ -1,4 +1,3 @@
-__author__ = 'satya'
 
 import matplotlib as  mt
 from matplotlib import pyplot as plot
@@ -11,7 +10,7 @@ from ReadImage import read_images as ri
 from RowMatrix import toRowMatrix
 from EigenFacesModel import EigenFacesModel as EFM
 
-pathToImages ='/home/satya/Documents/faces'
+pathToImages ='/home/Documents/faces'
 [imageArray,picIdArray] = ri(myPath=pathToImages)
 
 [eigenValueList,weightedVector,meanVector] = pca(imageArray,picIdArray)
