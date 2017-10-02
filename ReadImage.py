@@ -31,7 +31,7 @@ def read_images ( myPath,size=None ) :
 
 
 #Debugging Info
-#pathToImages ='/home/satya/Documents/faces'
+#pathToImages ='/home/Documents/faces'
 #[imageArray,picIdArray] = read_images(myPath=pathToImages)
 
 #print imageArray
