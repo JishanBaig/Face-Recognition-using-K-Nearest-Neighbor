@@ -1,5 +1,3 @@
-__author__ = 'satya'
-
 import numpy as np
 from distanceClass import EuclideanDistance
 from PrincipalComponentAnalysis import pca
