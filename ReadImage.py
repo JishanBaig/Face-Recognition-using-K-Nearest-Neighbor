@@ -1,4 +1,4 @@
-__author__ = 'satya'
+
 from PIL import Image
 import numpy as np
 import os
